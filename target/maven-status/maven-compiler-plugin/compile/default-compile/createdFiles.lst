@@ -1,0 +1,5 @@
+com\virgingames\www\App.class
+com\virgingames\www\utils\TestUtils.class
+com\virgingames\www\constants\Path.class
+com\virgingames\www\utils\PropertyReader.class
+com\virgingames\www\constants\EndPoints.class
